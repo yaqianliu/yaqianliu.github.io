@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: phylliss.liu@gmail.com
 description: "关于日食记，程序学习日志，杂想随记 | Yaqian Liu，Classic Music Lover，Fiction Lover| 这里是 @Yaqian Liu的个人博客，。"
 keyword: "Yaqian Liu, Daily Life, Calligraphy,Painting,IT,Notes @Yaqian Liu, Yaqian Liu Blog, 日常博客, 书法, 互联网, 绘画,随笔"
-url: https://yaqianliu.github.com/yaqianliu.github.io# your host, for absolute URL
+url: https://yaqianliu.github.com/yaqianliu.github.io
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
