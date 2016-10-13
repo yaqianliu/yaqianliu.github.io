@@ -14,10 +14,10 @@ baseurl: ""                             # for example, '/blog' if your blog host
 RSS: false
 weibo_username:     一清言
 zhihu_username:     phylliss
-github_username:    Yaqian Liu
+github_username:    YaqianLiu
 #twitter_username:  huxpro
 #facebook_username:  huxpro
-# linkedin_username:  firstname-lastname-idxxxx
+#linkedin_username:  firstname-lastname-idxxxx
 
 
 
@@ -63,8 +63,8 @@ duoshuo_share: true                     # set to false if you want to use Commen
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+#ga_domain: huangxuan.me
 
 
 
